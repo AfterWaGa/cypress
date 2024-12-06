@@ -1,5 +1,5 @@
 {
-    "login": "",
-    "diff_login": "",
-    "password": ""
+  "login": "USER_LOGIN",
+  "diff_login": "",
+  "password": "USER_PASSWORD"
 }
