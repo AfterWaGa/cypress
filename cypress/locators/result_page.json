@@ -1,0 +1,9 @@
+{
+    "title": "#messageHeader",
+    "result_title": "Авторизация прошла успешно",
+    "recovery_title": "Успешно отправили пароль на e-mail",
+    "wrong_data_title": "Такого логина или пароля нет",
+    "wrong_validation_title": "Нужно исправить проблему валидации",
+    "close": "#exitMessageButton > .exitIcon",
+    "footer": ".link"
+}
